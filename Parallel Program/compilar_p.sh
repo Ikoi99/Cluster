@@ -1,0 +1,1 @@
+gcc -O2  gengrupos_p.c fun_p.c -o gengrupos_p -lm -fopenmp
